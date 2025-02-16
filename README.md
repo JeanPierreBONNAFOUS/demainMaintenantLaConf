@@ -13,7 +13,7 @@ Les dessins et supports visuels contenus dans ce dépôt sont mis à disposition
 
 - **NonCommercial** : Vous pouvez utiliser ces dessins uniquement à des fins non commerciales. Cela signifie que vous ne pouvez pas les utiliser dans un contexte où l'objectif principal est de générer des revenus ou un avantage commercial.
 
-Pour plus de détails, veuillez consulter le fichier [LICENSE](LICENSE) ou visiter le site de Creative Commons : [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+Pour plus de détails, veuillez consulter le fichier [LICENSE](https://github.com/JeanPierreBONNAFOUS/demainMaintenantLaConf/blob/main/License) ou visiter le site de Creative Commons : [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ---
 
