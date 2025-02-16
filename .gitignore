@@ -1,0 +1,7 @@
+# Ignorer les fichiers générés par macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
