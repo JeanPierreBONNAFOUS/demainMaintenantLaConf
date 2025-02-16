@@ -2,7 +2,6 @@
 
 Des visuels pour la conférence "Demain Maintenant" édtion 3 17 Juin 2025 à l'académie du Climat 
 Des images sous licence CC BY-NC 4.0
-Dans votre fichier `README`, vous pouvez ajouter une section claire et concise pour résumer la licence et expliquer comment les utilisateurs peuvent utiliser vos dessins. Voici un exemple de texte que vous pouvez utiliser :
 
 ---
 
