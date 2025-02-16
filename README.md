@@ -22,5 +22,5 @@ Pour plus de détails, veuillez consulter le fichier [LICENSE](LICENSE) ou visit
 Si vous utilisez l'un de ces dessins, merci de me créditer de la manière suivante :
 
 ```
-Dessin réalisé par Jean-Pierre BONNAFOUS - [Sur Github](https://github.com/JeanPierreBONNAFOUS/demainMaintenantLaConf)
+Dessin réalisé par Jean-Pierre BONNAFOUS / ramuncho - [Sur Github](https://github.com/JeanPierreBONNAFOUS/demainMaintenantLaConf)
 ```
