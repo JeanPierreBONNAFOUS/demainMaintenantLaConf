@@ -28,3 +28,4 @@ Dessin réalisé par Jean-Pierre BONNAFOUS / ramuncho - [Sur Github](https://git
 ![SaveTheDate](assets/visuels/saveTheDate.jpg)
 ![CFP](assets/visuels/demainCFPEd3.jpg)
 ![HeaderWeb](assets/visuels/demainDateEd3.jpg)
+![PostTLRupture](assets/visuels/RuptureDouceTimeLine.jpg)
