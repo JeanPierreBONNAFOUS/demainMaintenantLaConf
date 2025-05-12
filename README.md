@@ -30,3 +30,5 @@ Dessin réalisé par Jean-Pierre BONNAFOUS / ramuncho - [Sur Github](https://git
 ![HeaderWeb](assets/visuels/demainDateEd3.jpg)
 ![PostTLRupture](assets/visuels/RuptureDouceTimeLine.jpg)
 ![TableauSpeakers25](assets/visuels/TableauSpeakers25.jpg)
+
+MAJ 12/05
