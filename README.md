@@ -1,7 +1,7 @@
 # demainMaintenantLaConf
 
 Des visuels pour la conférence "Demain Maintenant" édtion 3 17 Juin 2025 à l'académie du Climat 
-Des images sous licence CC BY-NC 4.0
+Des images sous licence CC BY-NC 4.0.
 
 ---
 
@@ -27,5 +27,5 @@ Dessin réalisé par Jean-Pierre BONNAFOUS / ramuncho - [Sur Github](https://git
 
 ![SaveTheDate](assets/visuels/saveTheDate.jpg)
 ![CFP](assets/visuels/demainCFPEd3.jpg)
-![HeaderWeb](assets/visuels/demainDateEd3.jpg)
+[![HeaderWeb](assets/visuels/demainDateEd3.jpg)](assets/visuels/demainDateEd3.jpg)
 ![PostTLRupture](assets/visuels/RuptureDouceTimeLine.jpg)

@@ -1,4 +1,5 @@
 # Ignorer les fichiers générés par macOS
+*.swp
 .DS_Store
 ._*
 .Spotlight-V100
